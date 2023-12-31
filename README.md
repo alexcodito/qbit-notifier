@@ -1,5 +1,4 @@
 # qbit-notifier
 Display toast notifications from a remote qBittorrent instance
 
-.\qbit-notifier.exe --urls="https://192.168.50.158:64392" 
-.\qbit-notifier.exe --urls="https://localhost:64392" 
+Configure via `appconfig.json`. Setting the URL is not required as it will default to the current network adapter's address.
